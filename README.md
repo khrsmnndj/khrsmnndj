@@ -1,7 +1,7 @@
 - 👋 Hi, I’m I Made Ari Kharismananda Jagatkirana, or you can call me Jak.
-- 👀 I’m interested in backend but also fullstack. I'm currently using Javascript libraires and frameworks.
-- 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on agroindustrial project javascript based softwares.
+- 👀 I’m interested in backend but also fullstack. I'm currently using Javascript libraries and frameworks.
+- 🌱 I’m currently learning Java.
+- 💞️ I’m looking to collaborate on project with javascript or typescript based softwares.
 - 📫 How to reach me:
 - LinkedIn  : https://www.linkedin.com/in/i-made-ari-kharismananda-jagatkirana-b4b8a720b
 - Instagram : @khrsmnndj
